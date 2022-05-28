@@ -1,0 +1,14 @@
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.exe
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.deps.json
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.runtimeconfig.json
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.runtimeconfig.dev.json
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.dll
+C:\Users\Syrgak\source\repos\homework008\homework008\bin\Debug\netcoreapp3.1\homework008.pdb
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.AssemblyInfoInputs.cache
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.AssemblyInfo.cs
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.csproj.CoreCompileInputs.cache
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.dll
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.pdb
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.genruntimeconfig.cache
+C:\Users\Syrgak\source\repos\homework008\homework008\obj\Debug\netcoreapp3.1\homework008.csproj.AssemblyReference.cache
